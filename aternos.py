@@ -66,4 +66,4 @@ async def on_message(message):
             await message.channel.send("The server is already online!")
           
 
-client.run("MTEwMzI1OTM2ODYxNjY0MDU0NA.GiTbMa.KniiVkKqT4egj3JGwvj-0XNYxqgdjyLb73th8k")
+client.run("MTEwMzI1OTM2ODYxNjY0MDU0NA.GaNY86.mNnDXWj-Cb7KSj5XGzpL2XBCraVZ1TYWDvIVvI")
